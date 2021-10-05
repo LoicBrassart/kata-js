@@ -1,6 +1,8 @@
 // ---------------------------------------------------------------------------------------- Explications
 // - Réalise un maximum d'exercices dans le temps imparti
-// - Tip: Active ou désactive tes réponses en changeant les valeurs dans les conditions
+// - Pour exécuter le fichier, lance la commande suivante:
+//   reset ; node structures.js
+// - Tip: Active ou désactive tes réponses aux exercices en changeant les valeurs dans les conditions
 // - On te donne accès aux fonctions suivantes pour tout ce dojo/kata.
 //   /!\ Il t'est **interdit** de toucher à ce code !
 
@@ -55,3 +57,26 @@ if(false) {
     
 }
 
+// Ecris un code qui te demande ton age tant que tu n'as pas plus de 18 ans. Alors, il doit afficher "Welcome to Ponyland ! \o/"
+if(false) {
+    
+}
+
+// Ecris une fonction fizzBuzz(num) qui te renvoie:
+//  - "fizz" si num est un multiple de 3
+//  - "buzz" si num est un multiple de 5
+//  - "fizzbuzz" si num est un multiple de 3 et de 5
+//  - num dans les autres cas
+if(false) {
+    
+}
+
+// Ecris une fonction square5() qui dessine un carré de 5 de côté dans ton terminal (avec des "_" et des "|", on ne demande pas du grand art)
+if(false) {
+    
+}
+
+// Ecris une fonction square(num) qui dessine un carré de num de côté dans ton terminal
+if(false) {
+    
+}
